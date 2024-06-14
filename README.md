@@ -1,17 +1,9 @@
-## Project Name & Pitch
-
-#### Example:
-
-Processing video app 
-
-An application used to filter data form Twitter based on user preference, built with React, Redux, JavaScript, and CSS.
+## Video processing APP
+# An application where you can add and visualize videos from you and other users!
 
 ## Project Status
-On process
 
-#### Example:
-
-This project is currently in development. Users can filter tweets by username and keyword and see visual data representation. Functionality to sort by additional parameters is in progress.
+This project is currently in development. Just the first steps on the developing of the app.
 
 ## Project Screen Shot(s)
 
