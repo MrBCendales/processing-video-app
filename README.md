@@ -37,7 +37,9 @@ To Visit App:
 
 ## Reflection
 
-  - What was the context for this project? (ie: was this a side project? was this for Turing? was this for an experiment?)
+  - What was the context for this project? 
+This is a project that helped me understand about the functionality of video processing with programmingm also to be able to perform a full stack project to get the full understanding.
+
   - What did you set out to build?
   - Why was this project challenging and therefore a really good learning experience?
   - What were some unexpected obstacles?
